@@ -14,4 +14,5 @@ In project "B" were its file stored in this repitoary named "End-to-End Sales & 
 ### Skills:
 
 Project A: Excel (Groupoing, Pivot Tables, Slicers, Grouping, Organzing , Summarzing Value Fields, Power Query, Data Modeling)
+
 Prjoct B: Power BI (Power Query, Data Modeling, AI & Advance Analytics, Interactivity, DAX)
