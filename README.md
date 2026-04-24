@@ -9,7 +9,7 @@ In project "B" were its file stored in this repitoary named "End-to-End Sales & 
 ### Methodology:
 
 1. For Project "A" Doing a Data analysis Pivot Table would be the recommonded thing since we would be taking the data dump refered to as raw data in this scenario for stakeholders and turning it into actionable insights since it containts every sales persion by region including the amount that was sold along with the item, units, order #, month and year. Also doing an ad hoc analysis between the the trends between sales in the region and salesperson as well as the growth and looking into any sales dips and comparing the different Q1-Q4 sales.
-2. For Project "B" Using a AI Q&A Visual as well as key influencers to analyze profit margins per brand the beverege disubtion company works with for reasonablie insights, a map chart to see sales per region, Matrix to analyze financials such as price per unit and operating profit and lastly Dynamic timeline for users to change dates.
+2. For Project "B" Using a AI Q&A Visual as well as key influencers to analyze profit margins per brand the beverege disubtion company works with for reasonablie insights, a map chart to see sales per region, Matrix Visual to analyze financials such as price per unit and operating profit and lastly Dynamic timeline for users to change dates.
 
 ### Skills:
 
