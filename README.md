@@ -1,4 +1,4 @@
-# Sales-Data-Analysis
+# Financial-Sales-Data-Analysis
 Interactive Dashboards Power BI & Micrsoft Excel
 
 ##Executive Summary:
