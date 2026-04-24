@@ -1,4 +1,5 @@
 # Sales-Data-Analysis
+Interactive Dashboards Power BI & Micrsoft Excel
 
 ##Executive Summary:
 In project "A" were its raw data file stored in this repitoary named "Raw Data Sales Analysis" , showcases a Wholesale distrubtion company called Home Depot asking for a Summarized sales report/dashboard involving large datasets to view totals, trends, or comparisons of there lumbar building sales department over the course of several years.
